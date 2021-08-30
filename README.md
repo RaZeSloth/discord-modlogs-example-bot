@@ -40,14 +40,17 @@ Currently we support the following events:
 10. **guildMemberAdd**: Emitted whenever a user joins a guild.
 11. **guildMemberRemove**: Emitted whenever a member leaves a guild, or is kicked.
 12. **guildMembersChunk**: Emitted whenever a chunk of guild members is received (all members come from the same guild).
+13. **messageUpdate**: Emiited whenever a message was updated.
+14. **inviteCreate**: Emitted whenever an invite is created.
+15. **inviteDelete**: Emitted whenever an invite is deleted.
 
 ## Note
 
-All the events listed here have there respected functions with the same name as the event name.
+Example bot can be found here- [Example Bot](https://github.com/ishandev2004/discord-modlogs-example-bot)
 
 ## Support Server
 
-Not ready yet but you can join my youtube server: [Join here](https://discord.gg/pjCgJxFvsv)
+Nope but you can join my youtube server for help: [Join here](https://discord.gg/pjCgJxFvsv)
 
 My youtube channel if you want to learn discord.js: [Sub here](https://www.youtube.com/channel/UCOlfREuwZ1tLGsf9BLyM8gA)
 
