@@ -1,0 +1,11 @@
+{
+  "name": "discord-modlogs-example-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ishandev2004/discord-modlogs-example-bot.git",
+  "author": "ishandev2004 <72369494+ishandev2004@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord-modlogs": "^0.0.51"
+  }
+}
